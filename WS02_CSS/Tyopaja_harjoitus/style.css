@@ -1,10 +1,10 @@
 
     p {
-      color: rgb(161, 125, 161);
+      color: rgb(13, 13, 13);
     }
     
     body {
-      background-color: lightgray;
+      background-color: rgba(231, 223, 223, 0.313);
     }
     
     h1 {
@@ -13,11 +13,11 @@
 .content-box {
   padding: 20px;
   margin: 10px;
-  background-color: #f0f0f0;
+  background-color: #ebcbea;
   border: 1px solid #ccc;
 }
 table {
-      width: 100%;
+      width: 70%;
       border-collapse: collapse;
     }
     
@@ -58,4 +58,47 @@ table {
     
     input[type="submit"]:hover {
       background-color: #edf2ed;
+    }
+table {
+      width: 80%;
+      border-collapse: collapse;
+    }
+    
+    th, td {
+      border: 1px solid #000000;
+      padding: 8px;
+      text-align: middle;
+    }
+    
+    th {
+      background-color: #d7c0de;
+    }
+    
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    
+    label {
+      font-weight: bold;
+    }
+    
+    input[type="text"], input[type="email"] {
+      padding: 6px;
+      border: 1px solid #ddd;
+      border-radius: 2px;
+    }
+    
+    input[type="submit"] {
+      background-color: #d7c0de;
+      color: white;
+      padding: 10px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    input[type="submit"]:hover {
+      background-color: #e0bce0;
     }
