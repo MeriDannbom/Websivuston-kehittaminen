@@ -4,17 +4,18 @@
     }
     
     body {
-      background-color: rgba(231, 223, 223, 0.313);
+      background-color: rgba(233, 186, 186, 0.313);
     }
     
     h1 {
       font-size: 2em;
     }
-.content-box {
+.content-box { 
+  border-radius: 10px;
   padding: 20px;
   margin: 10px;
-  background-color: #ebcbea;
-  border: 1px solid #ccc;
+  background-color: #ecc0d3;
+  border: 1px solid #000000;
 }
 table {
       width: 70%;
@@ -22,7 +23,7 @@ table {
     }
     
     th, td {
-      border: 1px solid #ddd;
+      border: 1px solid #f7f5f5;
       padding: 8px;
       text-align: left;
     }
@@ -34,7 +35,7 @@ table {
     form {
       display: flex;
       flex-direction: column;
-      gap: 10px;
+      gap: 3px;
     }
     
     label {
