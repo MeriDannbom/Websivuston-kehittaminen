@@ -36,6 +36,18 @@ Tausta
   }
 }
 
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.box {
+  background-color: rgb(230, 173, 230);
+  padding: 20px;
+  text-align: center;
+}
+
 table {
       width: 10%;
       border-collapse: collapse;
