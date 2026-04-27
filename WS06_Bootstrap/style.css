@@ -264,3 +264,30 @@ input[type="submit"]:hover {
     display: block;
   }
 }
+.container {
+  margin-top: 40px;
+}
+
+.col {
+  background-color: #ac4caf;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.responsive-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.column {
+  flex: 1;
+  background-color: #eba0ce;
+  color: white;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+}
