@@ -1,0 +1,25 @@
+body {
+  color: rgb(13, 13, 13);
+}
+
+body {
+  background-color: rgba(222, 197, 197, 0.313);
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.navbar {
+  background-color: rgb(230, 218, 220);
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 300px; 
+  object-fit: cover;   
+}
+#carouselExampleFade {
+  max-width: 600px;
+  margin: 0 auto;     
+}
