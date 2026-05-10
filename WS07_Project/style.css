@@ -1,25 +1,65 @@
 body {
-  color: rgb(13, 13, 13);
-}
-
-body {
-  background-color: rgba(222, 197, 197, 0.313);
+  background-color: rgba(231, 216, 216, 0.313);
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 4em;
+    font-family: "Vivaldi", cursive;
+  font-size: 4em;
+  color: rgb(150, 128, 131);
 }
 
 .navbar {
   background-color: rgb(230, 218, 220);
+  font-family: vivaldi, cursive;
+  font-size: 1.2em;
+}
+
+h4 {
+  font-family: vivaldi, cursive;
+  font-size: 1.5em;
+  color: rgb(150, 128, 131);
+  text-align: center;
 }
 
 .carousel-item img {
   width: 100%;
-  height: 300px; 
+  height: 400px; 
   object-fit: cover;   
 }
 #carouselExampleFade {
   max-width: 600px;
   margin: 0 auto;     
 }
+
+img {
+  margin-bottom: 30px;
+}
+h5 {
+  font-family: vivaldi, cursive;
+  font-size: 1.2em;
+  color: rgb(150, 128, 131);
+  text-align: center;
+}
+.card {
+  max-width: 400px;
+  margin: 20px auto;
+  background-color: rgb(230, 218, 220);
+  border: 1px solid #000000;
+  font-family: vijaya, serif;
+}
+
+footer {
+  background-color: rgb(230, 218, 220);
+  text-align: center;
+  padding: 10px;
+  font-family: vijaya, serif;
+}
+
+Hinnasto
+
+
+
+About 
+
+Info
