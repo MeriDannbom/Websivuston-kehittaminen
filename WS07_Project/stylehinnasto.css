@@ -21,20 +21,6 @@ h4 {
   color: rgb(150, 128, 131);
   text-align: center;
 }
-
-.carousel-item img {
-  width: 100%;
-  height: 400px; 
-  object-fit: cover;   
-}
-#carouselExampleFade {
-  max-width: 600px;
-  margin: 0 auto;     
-}
-
-img {
-  margin-bottom: 30px;
-}
 h5 {
   font-family: vivaldi, cursive;
   font-size: 1.2em;
