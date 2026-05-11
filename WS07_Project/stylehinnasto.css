@@ -21,22 +21,38 @@ h4 {
   color: rgb(150, 128, 131);
   text-align: center;
 }
+
 h5 {
+  margin-top: 20px;
   font-family: vivaldi, cursive;
   font-size: 1.2em;
-  color: rgb(150, 128, 131);
+  color: rgb(133, 117, 119);
   text-align: center;
 }
-.card {
-  max-width: 400px;
-  margin: 20px auto;
-  background-color: rgb(230, 218, 220);
-  border: 1px solid #000000;
+table.table {
+  margin-top: 50px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(214, 207, 207, 0.1);
   font-family: vijaya, serif;
+
+  --bs-table-bg: white;
+  --bs-table-striped-bg: #e4d9db;
+  --bs-table-hover-bg: #cab1b8;
+}
+
+table.table thead th {
+  background-color: #bfa3a3;
+  color: rgb(249, 246, 246);
+  padding: 15px;
+}
+
+table.table td {
+  padding: 15px;
 }
 
 footer {
-  background-color: rgb(230, 218, 220);
+  background-color: rgb(246, 238, 239);
   text-align: center;
   padding: 10px;
   font-family: vijaya, serif;
