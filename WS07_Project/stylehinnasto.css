@@ -13,6 +13,7 @@ h1 {
   background-color: rgb(230, 218, 220);
   font-family: vivaldi, cursive;
   font-size: 1.2em;
+  margin-bottom: 20px;
 }
 
 h4 {
@@ -20,35 +21,23 @@ h4 {
   font-size: 1.5em;
   color: rgb(150, 128, 131);
   text-align: center;
+  margin-bottom: 20px;
 }
 
-h5 {
-  margin-top: 20px;
-  font-family: vivaldi, cursive;
-  font-size: 1.2em;
-  color: rgb(133, 117, 119);
-  text-align: center;
-}
-table.table {
-  margin-top: 50px;
+.table {
+  width: 80%;
+  margin: 40px auto;
+  background-color: rgb(189, 169, 172);
   border-radius: 5px;
   overflow: hidden;
-  box-shadow: 0 4px 10px rgba(214, 207, 207, 0.1);
   font-family: vijaya, serif;
-
-  --bs-table-bg: white;
-  --bs-table-striped-bg: #e4d9db;
-  --bs-table-hover-bg: #cab1b8;
 }
 
-table.table thead th {
-  background-color: #bfa3a3;
-  color: rgb(249, 246, 246);
+.table th,
+.table td {
+  text-align: left;
   padding: 15px;
-}
-
-table.table td {
-  padding: 15px;
+  background-color: rgb(230, 218, 220);
 }
 
 footer {

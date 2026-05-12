@@ -1,0 +1,69 @@
+body {
+  background-color: rgba(231, 216, 216, 0.313);
+}
+
+h1 {
+  font-size: 4em;
+    font-family: "Vivaldi", cursive;
+  font-size: 4em;
+  color: rgb(150, 128, 131);
+}
+
+.navbar {
+  background-color: rgb(230, 218, 220);
+  font-family: vivaldi, cursive;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+h4 {
+  font-family: vivaldi, cursive;
+  font-size: 1.5em;
+  color: rgb(150, 128, 131);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.content-box {
+  max-width: 700px;
+  margin: 80px auto;
+  padding: 30px;
+  background-color: rgb(230, 218, 220);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.content-box h3 {
+  font-family: vivaldi, cursive;
+  color: rgb(150, 128, 131);
+  font-size: 2em;
+}
+
+.content-box p {
+  font-family: vijaya, serif;
+  font-size: 1.2em;
+}
+
+.quote {
+  text-align: center;
+  font-family: vivaldi, cursive;
+  font-size: 2em;
+  color: rgb(150, 128, 131);
+  margin: 80px auto;
+  max-width: 700px;
+}
+
+.content-box h5 {
+  font-family: vivaldi, cursive;
+  color: rgb(150, 128, 131);
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 40px;
+}
+
+footer {
+  background-color: rgb(246, 238, 239);
+  text-align: center;
+  padding: 10px;
+  font-family: vijaya, serif;
+}
