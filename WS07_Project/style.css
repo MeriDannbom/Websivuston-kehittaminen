@@ -13,6 +13,7 @@ h1 {
   background-color: rgb(230, 218, 220);
   font-family: vivaldi, cursive;
   font-size: 1.2em;
+  margin-bottom: 20px;
 }
 
 h4 {
@@ -20,6 +21,7 @@ h4 {
   font-size: 1.5em;
   color: rgb(150, 128, 131);
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .carousel-item img {
