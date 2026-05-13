@@ -1,16 +1,16 @@
 body {
-  background-color: rgba(231, 216, 216, 0.313);
+  background-color: rgba(250, 240, 230, 0.8);
 }
 
 h1 {
   font-size: 4em;
     font-family: "Vivaldi", cursive;
   font-size: 4em;
-  color: rgb(150, 128, 131);
+  color: rgb(72, 60, 50);
 }
 
 .navbar {
-  background-color: rgb(230, 218, 220);
+  background-color: rgb(219, 193, 170);
   font-family: vivaldi, cursive;
   font-size: 1.2em;
   margin-bottom: 20px;
@@ -19,7 +19,7 @@ h1 {
 h4 {
   font-family: vivaldi, cursive;
   font-size: 1.5em;
-  color: rgb(150, 128, 131);
+  color: rgb(72, 60, 50);
   text-align: center;
   margin-bottom: 20px;
 }
@@ -37,11 +37,11 @@ h4 {
 .table td {
   text-align: left;
   padding: 15px;
-  background-color: rgb(230, 218, 220);
+  background-color: rgb(245, 239, 232);
 }
 
 footer {
-  background-color: rgb(246, 238, 239);
+  background-color: rgb(219, 193,170);
   text-align: center;
   padding: 10px;
   font-family: vijaya, serif;
