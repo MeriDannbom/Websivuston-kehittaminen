@@ -1,16 +1,16 @@
 body {
-  background-color: rgba(231, 216, 216, 0.313);
+  background-color: rgba(231, 239, 241, 0.313);
 }
 
 h1 {
   font-size: 4em;
     font-family: "Vivaldi", cursive;
   font-size: 4em;
-  color: rgb(150, 128, 131);
+  color: rgb(112, 162, 227);
 }
 
 .navbar {
-  background-color: rgb(230, 218, 220);
+  background-color: rgb(199, 220, 228);
   font-family: vivaldi, cursive;
   font-size: 1.2em;
   margin-bottom: 20px;
@@ -19,7 +19,7 @@ h1 {
 h4 {
   font-family: vivaldi, cursive;
   font-size: 1.5em;
-  color: rgb(150, 128, 131);
+  color: rgb(112, 162, 227);
   text-align: center;
   margin-bottom: 20px;
 }
@@ -40,19 +40,19 @@ img {
 h5 {
   font-family: vivaldi, cursive;
   font-size: 1.2em;
-  color: rgb(150, 128, 131);
+  color: rgb(112, 162, 227);
   text-align: center;
 }
 .card {
   max-width: 400px;
   margin: 20px auto;
-  background-color: rgb(230, 218, 220);
+  background-color: rgb(187, 221, 231);
   border: 1px solid #000000;
   font-family: vijaya, serif;
 }
 
 footer {
-  background-color: rgb(230, 218, 220);
+  background-color: rgb(187, 221, 231);
   text-align: center;
   padding: 10px;
   font-family: vijaya, serif;
