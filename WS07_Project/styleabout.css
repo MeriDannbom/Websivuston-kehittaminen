@@ -1,0 +1,56 @@
+body {
+  background-color: rgba(231, 216, 216, 0.313);
+}
+
+h1 {
+  font-size: 4em;
+    font-family: "Vivaldi", cursive;
+  font-size: 4em;
+  color: rgb(150, 128, 131);
+}
+
+.navbar {
+  background-color: rgb(230, 218, 220);
+  font-family: vivaldi, cursive;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+h4 {
+  font-family: vivaldi, cursive;
+  font-size: 1.5em;
+  color: rgb(150, 128, 131);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+img {
+  margin-bottom: 30px;
+}
+h5 {
+  font-family: vivaldi, cursive;
+  font-size: 1.2em;
+  color: rgb(150, 128, 131);
+  text-align: center;
+}
+.card {
+  max-width: 400px;
+  margin: 20px auto;
+  background-color: rgb(230, 218, 220);
+  border: 1px solid #000000;
+  font-family: vijaya, serif;
+}
+
+footer {
+  background-color: rgb(230, 218, 220);
+  text-align: center;
+  padding: 10px;
+  font-family: vijaya, serif;
+}
