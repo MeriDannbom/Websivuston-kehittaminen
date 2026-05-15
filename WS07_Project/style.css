@@ -5,7 +5,6 @@ body {
 h1 {
   font-size: 4em;
     font-family: "Vivaldi", cursive;
-  font-size: 4em;
   color: rgb(72, 60, 50);
 }
 
@@ -16,7 +15,7 @@ h1 {
   margin-bottom: 50px;
 }
 
-.small-heading {
+h2 {
   font-family: vivaldi, cursive;
   font-size: 1.5em;
   color: rgb(150, 120, 89);
@@ -29,6 +28,7 @@ h1 {
   height: 400px; 
   object-fit: cover;   
 }
+
 #carouselExampleFade {
   max-width: 600px;
   margin: 0 auto;     
@@ -37,12 +37,14 @@ h1 {
 img {
   margin-bottom: 30px;
 }
-h5 {
+
+h3 {
   font-family: vivaldi, cursive;
   font-size: 1.2em;
   color: rgb(150, 120, 89);
   text-align: center;
 }
+
 .card {
   max-width: 400px;
   margin: 20px auto;
